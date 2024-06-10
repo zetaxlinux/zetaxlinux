@@ -40,10 +40,6 @@
 
 <br/><br/>
 
-<hr/>
-
-<br/>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -51,13 +47,9 @@
   
   <br/><br/><br/>
 </div>
-
  
 <div align="center"> 
   <a href="mailto:zetaxlinux@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
-
- <hr/>
- 
