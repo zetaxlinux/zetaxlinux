@@ -10,11 +10,11 @@
 
 <div align="left">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **Eat Sleep Code**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Mengentot Bini Tetangga**
 
-💬 Ask me about **BOKEP  [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **BOKEP  [here](https://yandex.com)**
 
 ⚡ Fun fact **BOKEP**
 
