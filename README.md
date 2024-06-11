@@ -24,6 +24,10 @@
 
 <hr/>
 
+![Sansekai's GitHub stats](https://github-readme-stats.vercel.app/api?username=zetaxbyte&show_icons=true&theme=tokyonight)<br>
+
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -37,7 +41,6 @@
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
  <br>
     
-![Sansekai's GitHub stats](https://github-readme-stats.vercel.app/api?username=zetaxbyte&show_icons=true&theme=tokyonight)<br>
 ![Sansekai's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zetaxbyte&theme=tokyonight&hide_border=false&layout=compact)
 
 <hr/>
