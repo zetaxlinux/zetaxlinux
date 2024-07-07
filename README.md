@@ -12,13 +12,13 @@
 
 <div align="left">
  
- 🔭 I’m currently working on ****
+ 🔭 I’m currently working
  
- 🌱 I’m currently learning ****
+ 🌱 I’m currently learning
 
-💬 Ask me about ***
+💬 Ask me about nothing
 
-⚡ Fun fact ****
+⚡ Fun fact nothing
 
  </div>
 
