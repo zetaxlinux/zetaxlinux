@@ -12,13 +12,13 @@
 
 <div align="left">
  
- 🔭 I’m currently working on **Eat Sleep Code**
+ 🔭 I’m currently working on ****
  
- 🌱 I’m currently learning **Mengentot Bini Tetangga**
+ 🌱 I’m currently learning ****
 
-💬 Ask me about **BOKEP  [here](https://yandex.com)**
+💬 Ask me about ***
 
-⚡ Fun fact **BOKEP**
+⚡ Fun fact ****
 
  </div>
 
